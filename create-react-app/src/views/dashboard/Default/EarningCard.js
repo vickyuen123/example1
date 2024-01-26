@@ -80,6 +80,9 @@ const EarningCard = ({ isLoading }) => {
               <Grid item>
                 <Grid container justifyContent="space-between">
                   <Grid item>
+
+
+
                     <Avatar
                       variant="rounded"
                       sx={{
@@ -167,7 +170,7 @@ const EarningCard = ({ isLoading }) => {
                     color: theme.palette.secondary[200]
                   }}
                 >
-                  Total Earning
+                  Total Earning asss
                 </Typography>
               </Grid>
             </Grid>
